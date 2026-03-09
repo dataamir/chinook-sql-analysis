@@ -1,0 +1,26 @@
+Country,TotalInvoices,UniqueCustomers,TotalRevenue,AvgOrderValue,RevenueSharePct
+USA,81,12,461.5,5.7,17.52
+Canada,34,4,233.32,6.86,8.86
+Brazil,27,4,204.3,7.57,7.76
+UK,26,4,192.37,7.4,7.3
+Germany,28,4,167.39,5.98,6.36
+India,21,2,146.88,6.99,5.58
+France,19,4,131.25,6.91,4.98
+Norway,17,2,129.04,7.59,4.9
+Australia,17,2,116.48,6.85,4.42
+Poland,16,2,116.3,7.27,4.42
+Czech Republic,12,2,89.06,7.42,3.38
+Portugal,14,2,80.74,5.77,3.07
+Netherlands,14,2,78.73,5.62,2.99
+Chile,12,1,67.29,5.61,2.56
+Sweden,8,1,53.42,6.68,2.03
+Denmark,13,2,51.81,3.99,1.97
+Singapore,8,1,49.82,6.23,1.89
+Argentina,6,1,44.96,7.49,1.71
+Finland,9,1,42.99,4.78,1.63
+Austria,5,1,40.43,8.09,1.54
+Belgium,5,1,33.58,6.72,1.28
+Hungary,5,1,26.51,5.3,1.01
+Spain,4,1,26.22,6.55,1.0
+Ireland,7,1,24.92,3.56,0.95
+Italy,4,1,24.34,6.08,0.92

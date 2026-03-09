@@ -1,0 +1,4 @@
+EmployeeId,SalesRep,Title,HireDate,CustomersSupported,TotalSales,TotalRevenue,AvgDealSize,RevenuePerCustomer
+5,Steve Johnson,Sales Support Agent,2003-10-17,23,149,971.26,6.52,42.23
+3,Jane Peacock,Sales Support Agent,2002-04-01,20,146,950.32,6.51,47.52
+4,Margaret Park,Sales Support Agent,2003-05-03,16,117,712.07,6.09,44.5

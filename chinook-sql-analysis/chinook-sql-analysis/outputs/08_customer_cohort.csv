@@ -1,0 +1,4 @@
+Segment,CustomerCount,AvgOrders,AvgLifetimeValue,SegmentRevenue,RevenueSharePct
+2 - Occasional (2-4),10,3.4,17.21,172.05,6.53
+3 - Regular (5-9),41,7.0,45.1,1849.19,70.21
+4 - Loyal (10+),8,11.6,76.55,612.41,23.25

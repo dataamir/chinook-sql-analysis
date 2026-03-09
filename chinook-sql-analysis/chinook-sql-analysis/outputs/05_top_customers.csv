@@ -1,0 +1,21 @@
+CustomerId,CustomerName,Country,City,SupportRep,TotalOrders,LifetimeValue,AvgOrderValue,FirstPurchase,LastPurchase
+18,Manoj Davis,India,Mumbai,Jane Peacock,14,99.31,7.09,2022-02-02,2023-11-04
+9,Jennifer Smith,Brazil,São Paulo,Margaret Park,11,84.11,7.65,2022-01-02,2023-12-10
+43,Jack Wilson,Canada,Vancouver,Margaret Park,12,83.81,6.98,2022-01-20,2023-08-07
+24,Aaron Robinson,Poland,Warsaw,Steve Johnson,11,76.46,6.95,2022-01-15,2023-12-08
+6,Hannah Schneider,USA,Philadelphia,Jane Peacock,11,75.31,6.85,2022-01-11,2023-11-16
+56,Aaron Robinson,Norway,Oslo,Margaret Park,9,70.75,7.86,2022-03-09,2023-07-28
+13,Kathy Thompson,UK,London,Jane Peacock,9,70.43,7.83,2022-02-09,2023-11-19
+26,Niklas Walker,Chile,Santiago,Steve Johnson,12,67.29,5.61,2022-01-06,2023-09-25
+46,Heather White,Germany,Berlin,Jane Peacock,12,63.45,5.29,2022-01-18,2023-12-27
+55,Ellie Lee,Portugal,Lisbon,Jane Peacock,10,62.67,6.27,2022-02-11,2023-03-28
+44,Michelle Martin,Brazil,São Paulo,Jane Peacock,7,60.3,8.61,2022-03-31,2023-12-23
+17,Dan Garcia,Australia,Sydney,Margaret Park,9,60.07,6.67,2022-03-06,2023-11-22
+42,Frank Harris,Canada,Toronto,Steve Johnson,9,58.58,6.51,2022-03-29,2023-12-14
+21,Jorge Thomas,Norway,Oslo,Jane Peacock,8,58.29,7.29,2022-01-26,2023-10-03
+52,Luis Anderson,Australia,Sydney,Steve Johnson,8,56.41,7.05,2022-01-03,2023-06-04
+14,Heather White,UK,Manchester,Steve Johnson,7,55.73,7.96,2022-01-09,2023-12-10
+4,Hugh O'Reilly,USA,Houston,Steve Johnson,8,53.83,6.73,2022-01-09,2023-11-10
+29,Stanisław Young,Sweden,Stockholm,Steve Johnson,8,53.42,6.68,2022-02-16,2023-12-13
+57,Martha Clark,Czech Republic,Prague,Steve Johnson,6,52.22,8.7,2022-06-05,2024-01-01
+41,Jennifer Smith,USA,Philadelphia,Margaret Park,7,50.76,7.25,2022-08-20,2023-10-21
